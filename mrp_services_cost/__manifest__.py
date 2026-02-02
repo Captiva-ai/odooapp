@@ -14,7 +14,7 @@
         'views/mrp_service_views.xml',
     ],
     'license': 'OPL-1',
-    'price': 49.0,
+    'price': 299.0,
     'currency': 'USD',
     'installable': True,
     'application': False,
