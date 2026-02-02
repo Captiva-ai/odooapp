@@ -2,7 +2,7 @@
 
 {
     "name": "MRP Services Cost",
-    "version": "1.0",
+    "version": "18.0.1.0",
     "category": "Manufacturing",
     "summary": "Include service costs from BoM into MO valuation",
     "author": "Captiva-ai, Ramy Shalaby",
